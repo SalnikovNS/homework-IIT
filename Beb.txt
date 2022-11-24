@@ -1,0 +1,8 @@
+   88  cd Documents/Dz
+   89  git init
+   90  git add Beb.txt
+   91  git commit
+   92*
+   93  cd Documents/Dz
+   94  git commit -m "Отчёт"
+   95  history
