@@ -1,1 +1,27 @@
-
+ 195  cd Dz
+  196  git init
+  197  git add Beb
+  198  git add Beb
+  199  git nano
+  200  nano Beb
+  201  git commit
+  202  git commit
+  203  git commit -m "Файл с коммандами"
+  204  git branch
+  205  git checkout new
+  206  git Branch new
+  207  git branch new
+  208  git checkout new
+  209  git add Branch
+  210  git commit
+  211  git commit -m "Файл с Отчётом"
+  212  git merge
+  213  git commit
+  214  git checkout main
+  215  git branch
+  216  git checkout master
+  217  git merge
+  218  git checkout main
+  219  git checkout new
+  220  git checkout main
+  221  history
