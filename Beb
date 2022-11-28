@@ -10,3 +10,4 @@ git commit -m "Файл с Отчётом"
 git checkout main
 git branch
 git checkout master
+git merge new
